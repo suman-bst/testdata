@@ -1,0 +1,702 @@
+[
+  {
+    "rank": 1,
+    "name": "Parker 51 Fountain Pen",
+    "variant": "Midnight fine",
+    "price": "359.99",
+    "listingId": "ff8342-b378ce-7da17c"
+  },
+  {
+    "rank": 2,
+    "name": "Sheaffer Imperial Ballpoint",
+    "variant": "Ivory medium",
+    "price": "29.99",
+    "listingId": "0b578e-c09536-271428"
+  },
+  {
+    "rank": 3,
+    "name": "Lamy 2000 Rollerball",
+    "variant": "Graphite broad",
+    "price": "380.99",
+    "listingId": "3622d8-449511-e49cc4"
+  },
+  {
+    "rank": 4,
+    "name": "Pilot Vanishing Point",
+    "variant": "Cobalt rollerball",
+    "price": "385.99",
+    "listingId": "780db7-666e5b-0c7507"
+  },
+  {
+    "rank": 5,
+    "name": "Waterman Expert",
+    "variant": "Burgundy ballpoint",
+    "price": "80.99",
+    "listingId": "c22c5e-fbae83-c41645"
+  },
+  {
+    "rank": 6,
+    "name": "Cross Townsend",
+    "variant": "Moss needlepoint",
+    "price": "270.99",
+    "listingId": "610201-a82391-495959"
+  },
+  {
+    "rank": 7,
+    "name": "Sailor 1911 Standard",
+    "variant": "Amber fine",
+    "price": "428.99",
+    "listingId": "9de001-c747cc-2fbd32"
+  },
+  {
+    "rank": 8,
+    "name": "Platinum Century 3776",
+    "variant": "Chrome medium",
+    "price": "459.99",
+    "listingId": "eef51b-91e12d-7f332a"
+  },
+  {
+    "rank": 9,
+    "name": "Kaweco Sport Classic",
+    "variant": "Teal broad",
+    "price": "63.99",
+    "listingId": "699dba-c521c2-807458"
+  },
+  {
+    "rank": 10,
+    "name": "TWSBI Diamond 580",
+    "variant": "Slate rollerball",
+    "price": "353.99",
+    "listingId": "633752-59b049-9e8f98"
+  },
+  {
+    "rank": 11,
+    "name": "Pelikan M200 Classic",
+    "variant": "Midnight ballpoint",
+    "price": "46.99",
+    "listingId": "5a7c1d-938330-4d39a8"
+  },
+  {
+    "rank": 12,
+    "name": "Montblanc Meisterstuck 146",
+    "variant": "Ivory needlepoint",
+    "price": "114.99",
+    "listingId": "d70425-8d2b25-47bf97"
+  },
+  {
+    "rank": 13,
+    "name": "Faber-Castell Ambition",
+    "variant": "Graphite fine",
+    "price": "369.99",
+    "listingId": "cad5b6-08368e-2395e0"
+  },
+  {
+    "rank": 14,
+    "name": "Caran d'Ache Ecridor",
+    "variant": "Cobalt medium",
+    "price": "495.99",
+    "listingId": "7a5d03-5101b7-80c319"
+  },
+  {
+    "rank": 15,
+    "name": "Aurora Ipsilon",
+    "variant": "Burgundy broad",
+    "price": "351.99",
+    "listingId": "f7f35a-884a58-d5394c"
+  },
+  {
+    "rank": 16,
+    "name": "Diplomat Aero",
+    "variant": "Moss rollerball",
+    "price": "134.99",
+    "listingId": "425ad0-9a7bb4-b4cb28"
+  },
+  {
+    "rank": 17,
+    "name": "Rotring 600 Ballpoint",
+    "variant": "Amber ballpoint",
+    "price": "149.99",
+    "listingId": "826dd4-700676-d2d5a5"
+  },
+  {
+    "rank": 18,
+    "name": "Uni Jetstream Prime",
+    "variant": "Chrome needlepoint",
+    "price": "252.99",
+    "listingId": "b5aaf3-57db0f-1a617d"
+  },
+  {
+    "rank": 19,
+    "name": "Zebra Sarasa Grand",
+    "variant": "Teal fine",
+    "price": "349.99",
+    "listingId": "906337-5ec627-5b377f"
+  },
+  {
+    "rank": 20,
+    "name": "Pentel EnerGel Alloy",
+    "variant": "Slate medium",
+    "price": "344.99",
+    "listingId": "c5161b-db7f40-3dba26"
+  },
+  {
+    "rank": 21,
+    "name": "Muji Aluminum Gel Pen",
+    "variant": "Midnight broad",
+    "price": "415.99",
+    "listingId": "782b8d-755bef-c49e0c"
+  },
+  {
+    "rank": 22,
+    "name": "Fisher Space Pen Bullet",
+    "variant": "Ivory rollerball",
+    "price": "243.99",
+    "listingId": "2c2f37-84937a-c04a2a"
+  },
+  {
+    "rank": 23,
+    "name": "Retro 51 Tornado",
+    "variant": "Graphite ballpoint",
+    "price": "184.99",
+    "listingId": "6bf801-36cd8d-a5f03b"
+  },
+  {
+    "rank": 24,
+    "name": "Ohto Horizon Needle Point",
+    "variant": "Cobalt needlepoint",
+    "price": "418.99",
+    "listingId": "f0ae50-8a9032-04269d"
+  },
+  {
+    "rank": 25,
+    "name": "Monami 153 Neo",
+    "variant": "Burgundy fine",
+    "price": "108.99",
+    "listingId": "07e233-e6c3d6-a33ea0"
+  },
+  {
+    "rank": 26,
+    "name": "Bic Cristal ReNew",
+    "variant": "Moss medium",
+    "price": "154.99",
+    "listingId": "89fa3c-450365-c6cc23"
+  },
+  {
+    "rank": 27,
+    "name": "Paper Mate InkJoy Metal",
+    "variant": "Amber broad",
+    "price": "412.99",
+    "listingId": "eec618-78adc6-7eb6dc"
+  },
+  {
+    "rank": 28,
+    "name": "Sharpie S-Gel Copper",
+    "variant": "Chrome rollerball",
+    "price": "393.99",
+    "listingId": "5db968-1f4830-417685"
+  },
+  {
+    "rank": 29,
+    "name": "Schneider Slider Rave",
+    "variant": "Teal ballpoint",
+    "price": "420.99",
+    "listingId": "a9244b-fc21ac-e048a4"
+  },
+  {
+    "rank": 30,
+    "name": "Staedtler Triplus Ball",
+    "variant": "Slate needlepoint",
+    "price": "435.99",
+    "listingId": "7a21f8-ec47ed-016a1d"
+  },
+  {
+    "rank": 31,
+    "name": "Stabilo Worker Colorful",
+    "variant": "Midnight fine",
+    "price": "48.99",
+    "listingId": "498c20-78c4d1-8c46f3"
+  },
+  {
+    "rank": 32,
+    "name": "Tombow Zoom 505",
+    "variant": "Ivory medium",
+    "price": "273.99",
+    "listingId": "1979be-ef4719-ed727e"
+  },
+  {
+    "rank": 33,
+    "name": "Namiki Falcon Resin",
+    "variant": "Graphite broad",
+    "price": "297.99",
+    "listingId": "53ef7b-37c5a0-65ee78"
+  },
+  {
+    "rank": 34,
+    "name": "Visconti Rembrandt",
+    "variant": "Cobalt rollerball",
+    "price": "369.99",
+    "listingId": "f25f20-5184ca-833ef9"
+  },
+  {
+    "rank": 35,
+    "name": "Pineider Avatar UR",
+    "variant": "Burgundy ballpoint",
+    "price": "182.99",
+    "listingId": "7560d7-80f3c2-dac03a"
+  },
+  {
+    "rank": 36,
+    "name": "Esterbrook Estie Nouveau",
+    "variant": "Moss needlepoint",
+    "price": "20.99",
+    "listingId": "23c8de-ceb034-6ff23c"
+  },
+  {
+    "rank": 37,
+    "name": "Conklin Duragraph",
+    "variant": "Amber fine",
+    "price": "294.99",
+    "listingId": "9f3cf3-2a39a9-186373"
+  },
+  {
+    "rank": 38,
+    "name": "Monteverde Ritma",
+    "variant": "Chrome medium",
+    "price": "79.99",
+    "listingId": "040129-fd7bd0-023798"
+  },
+  {
+    "rank": 39,
+    "name": "Opus 88 Koloro",
+    "variant": "Teal broad",
+    "price": "289.99",
+    "listingId": "08973c-016834-effc88"
+  },
+  {
+    "rank": 40,
+    "name": "Benu Briolette",
+    "variant": "Slate rollerball",
+    "price": "313.99",
+    "listingId": "630fb8-ea13bb-225566"
+  },
+  {
+    "rank": 41,
+    "name": "Hongdian Black Forest",
+    "variant": "Midnight ballpoint",
+    "price": "477.99",
+    "listingId": "c95f57-a7e07e-f6b486"
+  },
+  {
+    "rank": 42,
+    "name": "Jinhao Centennial",
+    "variant": "Ivory needlepoint",
+    "price": "103.99",
+    "listingId": "c2431a-deebbf-e933d3"
+  },
+  {
+    "rank": 43,
+    "name": "Majohn A1 Press",
+    "variant": "Graphite fine",
+    "price": "322.99",
+    "listingId": "8aa258-d3e543-903677"
+  },
+  {
+    "rank": 44,
+    "name": "Wing Sung 699",
+    "variant": "Cobalt medium",
+    "price": "419.99",
+    "listingId": "4559c9-41aa48-692f8b"
+  },
+  {
+    "rank": 45,
+    "name": "Pilot Metropolitan Retro",
+    "variant": "Burgundy broad",
+    "price": "94.99",
+    "listingId": "be76f7-ef16bf-f3da66"
+  },
+  {
+    "rank": 46,
+    "name": "Sakura Pigma Micron PN",
+    "variant": "Moss rollerball",
+    "price": "325.99",
+    "listingId": "bd7b34-5c63e8-4fdd99"
+  },
+  {
+    "rank": 47,
+    "name": "Copic Multiliner SP",
+    "variant": "Amber ballpoint",
+    "price": "356.99",
+    "listingId": "8ac4ac-537b8b-4e4dfc"
+  },
+  {
+    "rank": 48,
+    "name": "Leuchtturm Drehgriffel",
+    "variant": "Chrome needlepoint",
+    "price": "323.99",
+    "listingId": "9f597b-f174c1-f892f8"
+  },
+  {
+    "rank": 49,
+    "name": "Baron Fig Squire",
+    "variant": "Teal fine",
+    "price": "171.99",
+    "listingId": "082145-555024-bcf353"
+  },
+  {
+    "rank": 50,
+    "name": "YStudio Classic Revolve",
+    "variant": "Slate medium",
+    "price": "231.99",
+    "listingId": "8feddb-1ed681-61260a"
+  },
+  {
+    "rank": 51,
+    "name": "Parker Jotter XL",
+    "variant": "Midnight broad",
+    "price": "392.99",
+    "listingId": "e72ab5-73d763-31a152"
+  },
+  {
+    "rank": 52,
+    "name": "Sheaffer Prelude Fountain Pen",
+    "variant": "Ivory rollerball",
+    "price": "25.99",
+    "listingId": "98893c-5c0a63-1de93f"
+  },
+  {
+    "rank": 53,
+    "name": "Lamy Safari Vista",
+    "variant": "Graphite ballpoint",
+    "price": "127.99",
+    "listingId": "5163a8-2fe3db-2e1a41"
+  },
+  {
+    "rank": 54,
+    "name": "Pilot Custom Heritage 92",
+    "variant": "Cobalt needlepoint",
+    "price": "226.99",
+    "listingId": "defc74-493ea0-83ef72"
+  },
+  {
+    "rank": 55,
+    "name": "Waterman Hemisphere Deluxe",
+    "variant": "Burgundy fine",
+    "price": "367.99",
+    "listingId": "5d9f10-dbbba1-3935fc"
+  },
+  {
+    "rank": 56,
+    "name": "Cross Century II Medalist",
+    "variant": "Moss medium",
+    "price": "55.99",
+    "listingId": "72fff8-b37fce-0ba66b"
+  },
+  {
+    "rank": 57,
+    "name": "Sailor Pro Gear Slim",
+    "variant": "Amber broad",
+    "price": "158.99",
+    "listingId": "29f869-086a8a-a5aa13"
+  },
+  {
+    "rank": 58,
+    "name": "Platinum Procyon Luster",
+    "variant": "Chrome rollerball",
+    "price": "282.99",
+    "listingId": "06ae42-eae50c-bfbe6e"
+  },
+  {
+    "rank": 59,
+    "name": "Kaweco Liliput Brass",
+    "variant": "Teal ballpoint",
+    "price": "380.99",
+    "listingId": "5dac52-673df0-f1dd96"
+  },
+  {
+    "rank": 60,
+    "name": "TWSBI Eco Transparent",
+    "variant": "Slate needlepoint",
+    "price": "246.99",
+    "listingId": "5b44ac-788ddd-11905a"
+  },
+  {
+    "rank": 61,
+    "name": "Pelikan Souveran M400",
+    "variant": "Midnight fine",
+    "price": "136.99",
+    "listingId": "316ad8-596f1f-f5eae4"
+  },
+  {
+    "rank": 62,
+    "name": "Montblanc Starwalker Resin",
+    "variant": "Ivory medium",
+    "price": "148.99",
+    "listingId": "d90894-548e1d-e56f34"
+  },
+  {
+    "rank": 63,
+    "name": "Faber-Castell Loom Piano",
+    "variant": "Graphite broad",
+    "price": "200.99",
+    "listingId": "82a086-33f299-4c009e"
+  },
+  {
+    "rank": 64,
+    "name": "Caran dAche 849 Roller",
+    "variant": "Cobalt rollerball",
+    "price": "273.99",
+    "listingId": "86ad89-067bb6-ffd156"
+  },
+  {
+    "rank": 65,
+    "name": "Aurora Talentum Black",
+    "variant": "Burgundy ballpoint",
+    "price": "498.99",
+    "listingId": "d4c05c-bc9827-f0893e"
+  },
+  {
+    "rank": 66,
+    "name": "Diplomat Excellence A2",
+    "variant": "Moss needlepoint",
+    "price": "418.99",
+    "listingId": "23743a-305dfd-86af6c"
+  },
+  {
+    "rank": 67,
+    "name": "Rotring Rapid Pro",
+    "variant": "Amber fine",
+    "price": "283.99",
+    "listingId": "0a73aa-775f6f-32f872"
+  },
+  {
+    "rank": 68,
+    "name": "Uni-ball Signo Premier",
+    "variant": "Chrome medium",
+    "price": "270.99",
+    "listingId": "ae34fb-afb6ad-c63880"
+  },
+  {
+    "rank": 69,
+    "name": "Zebra F-701 Steel",
+    "variant": "Teal broad",
+    "price": "29.99",
+    "listingId": "297795-06db41-1f7c58"
+  },
+  {
+    "rank": 70,
+    "name": "Pentel Philography Twist",
+    "variant": "Slate rollerball",
+    "price": "212.99",
+    "listingId": "8df812-94220f-e2aeca"
+  },
+  {
+    "rank": 71,
+    "name": "Muji Brass Gel Pen",
+    "variant": "Midnight ballpoint",
+    "price": "288.99",
+    "listingId": "84da30-b5ec83-1b697c"
+  },
+  {
+    "rank": 72,
+    "name": "Fisher AG7 Astronaut",
+    "variant": "Ivory needlepoint",
+    "price": "158.99",
+    "listingId": "954aab-5e5f27-975014"
+  },
+  {
+    "rank": 73,
+    "name": "Retro 51 Hex-O-Matic",
+    "variant": "Graphite fine",
+    "price": "155.99",
+    "listingId": "afa327-6ee633-07b504"
+  },
+  {
+    "rank": 74,
+    "name": "Ohto Tasche Compact",
+    "variant": "Cobalt medium",
+    "price": "209.99",
+    "listingId": "b57fb4-6471d7-06c353"
+  },
+  {
+    "rank": 75,
+    "name": "Monami Plus Pen 3000",
+    "variant": "Burgundy broad",
+    "price": "323.99",
+    "listingId": "2a9d07-79f011-7d2fce"
+  },
+  {
+    "rank": 76,
+    "name": "Bic Gel-ocity Illusion",
+    "variant": "Moss rollerball",
+    "price": "37.99",
+    "listingId": "479f39-5280bf-352232"
+  },
+  {
+    "rank": 77,
+    "name": "Paper Mate Profile Metal",
+    "variant": "Amber ballpoint",
+    "price": "314.99",
+    "listingId": "1d66f2-b4dc5f-c305e1"
+  },
+  {
+    "rank": 78,
+    "name": "Sharpie Roller Needle",
+    "variant": "Chrome needlepoint",
+    "price": "213.99",
+    "listingId": "40c775-2ac31a-49b77e"
+  },
+  {
+    "rank": 79,
+    "name": "Schneider Ray Fountain",
+    "variant": "Teal fine",
+    "price": "412.99",
+    "listingId": "5dccb6-2836f0-158cec"
+  },
+  {
+    "rank": 80,
+    "name": "Staedtler Concrete Ball",
+    "variant": "Slate medium",
+    "price": "345.99",
+    "listingId": "df7375-55bdf3-c3b7b4"
+  },
+  {
+    "rank": 81,
+    "name": "Stabilo Flow Gel",
+    "variant": "Midnight broad",
+    "price": "333.99",
+    "listingId": "75f791-473b86-421393"
+  },
+  {
+    "rank": 82,
+    "name": "Tombow Object Fountain",
+    "variant": "Ivory rollerball",
+    "price": "214.99",
+    "listingId": "248a48-e8593e-f222b9"
+  },
+  {
+    "rank": 83,
+    "name": "Namiki Yukari Royale",
+    "variant": "Graphite ballpoint",
+    "price": "258.99",
+    "listingId": "31e48f-ea1b1b-2cec99"
+  },
+  {
+    "rank": 84,
+    "name": "Visconti Homo Sapiens",
+    "variant": "Cobalt needlepoint",
+    "price": "310.99",
+    "listingId": "2126c6-ee1e2e-c48a59"
+  },
+  {
+    "rank": 85,
+    "name": "Pineider La Grande Bellezza",
+    "variant": "Burgundy fine",
+    "price": "344.99",
+    "listingId": "141ab4-2bd805-05128f"
+  },
+  {
+    "rank": 86,
+    "name": "Esterbrook Camden Composition",
+    "variant": "Moss medium",
+    "price": "462.99",
+    "listingId": "6ef0cc-26a443-a50576"
+  },
+  {
+    "rank": 87,
+    "name": "Conklin All American",
+    "variant": "Amber broad",
+    "price": "87.99",
+    "listingId": "bc8df6-062481-27224a"
+  },
+  {
+    "rank": 88,
+    "name": "Monteverde Invincia Deluxe",
+    "variant": "Chrome rollerball",
+    "price": "167.99",
+    "listingId": "5cd760-b76c58-21fa70"
+  },
+  {
+    "rank": 89,
+    "name": "Opus 88 Demonstrator",
+    "variant": "Teal ballpoint",
+    "price": "428.99",
+    "listingId": "8b0cd9-fa7f20-c18977"
+  },
+  {
+    "rank": 90,
+    "name": "Benu Euphoria Bourbon",
+    "variant": "Slate needlepoint",
+    "price": "222.99",
+    "listingId": "f9542d-d3a5bb-8c045e"
+  },
+  {
+    "rank": 91,
+    "name": "Hongdian N8 Maple Leaf",
+    "variant": "Midnight fine",
+    "price": "184.99",
+    "listingId": "956405-2150ce-65be84"
+  },
+  {
+    "rank": 92,
+    "name": "Jinhao X159 Acrylic",
+    "variant": "Ivory medium",
+    "price": "148.99",
+    "listingId": "844e6d-194452-c8eb2c"
+  },
+  {
+    "rank": 93,
+    "name": "Majohn Q1 Mini",
+    "variant": "Graphite broad",
+    "price": "25.99",
+    "listingId": "45b198-48cb3b-492d22"
+  },
+  {
+    "rank": 94,
+    "name": "Wing Sung 601 Flighter",
+    "variant": "Cobalt rollerball",
+    "price": "278.99",
+    "listingId": "ae3c6e-bf799d-27c780"
+  },
+  {
+    "rank": 95,
+    "name": "Pilot Prera Iro-Ai",
+    "variant": "Burgundy ballpoint",
+    "price": "370.99",
+    "listingId": "ead857-14a4d7-e317e2"
+  },
+  {
+    "rank": 96,
+    "name": "Sakura Ballsign Knock",
+    "variant": "Moss needlepoint",
+    "price": "235.99",
+    "listingId": "1ef96d-a618cd-daa2ed"
+  },
+  {
+    "rank": 97,
+    "name": "Copic Drawing Pen F02",
+    "variant": "Amber fine",
+    "price": "463.99",
+    "listingId": "aef5ca-1e7c98-d1c5d4"
+  },
+  {
+    "rank": 98,
+    "name": "Leuchtturm Drehgriffel Gel",
+    "variant": "Chrome medium",
+    "price": "415.99",
+    "listingId": "f46f1e-c99e73-d9f989"
+  },
+  {
+    "rank": 99,
+    "name": "Baron Fig Squire Click",
+    "variant": "Teal broad",
+    "price": "130.99",
+    "listingId": "643a7d-77f3f8-a1a380"
+  },
+  {
+    "rank": 100,
+    "name": "YStudio Brassing Portable",
+    "variant": "Slate rollerball",
+    "price": "298.99",
+    "listingId": "320cb3-341640-9ed82b"
+  }
+]
