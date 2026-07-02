@@ -10,7 +10,7 @@
     <meta name="twitter:title" content="Just Text it!">
     <meta name="twitter:description" content="Tap to open Messages.">
     <title>Just Text it!</title>
-    <meta http-equiv="refresh" content="0; url=sms:+16502137322&amp;body=Hello%20Airtap%21">
+    <meta http-equiv="refresh" content="0; url=sms:+16502137322">
     <style>
       :root {
         --bg: #FAFAFA;
@@ -110,12 +110,12 @@
       <img class="logo" src="assets/airtap-logo.svg" alt="Airtap">
       <h1>Just Text it!</h1>
       <p>Opening iMessage</p>
-      <a id="sms-link" href="sms:+16502137322&amp;body=Hello%20Airtap%21">Hello Airtap!</a>
+      <a id="sms-link" href="sms:+16502137322">Hello Airtap!</a>
     </main>
 
     <script>
       (() => {
-        const smsUrl = "sms:+16502137322&body=Hello%20Airtap%21";
+        const smsUrl = "sms:+16502137322";
         const link = document.getElementById("sms-link");
 
         link.href = smsUrl;
